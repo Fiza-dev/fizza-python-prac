@@ -17,4 +17,4 @@ jobs:
         run: |
           curl -X POST -H "Content-type: application/json" \
           --data "{\"text\":\"${{ github.actor }} pushed code to *${{ github.ref_name }}* branch!\"}" \
-          "https://hooks.slack.com/services/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"
+          "https://hooks.slack.com/services/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"
