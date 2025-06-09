@@ -2,7 +2,7 @@ import requests
 import json
 
 # Your Slack webhook URL
-webhook_url = "https://hooks.slack.com/services/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"
+webhook_url = "https://hooks.slack.com/services/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"
 
 # Simple message
 message = {"text": "Hello World"}
